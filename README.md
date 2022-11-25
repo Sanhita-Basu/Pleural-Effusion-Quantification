@@ -1,1 +1,1 @@
-# pleural-effusion-segmentation
+# Pleural-effusion segmentation using AI
