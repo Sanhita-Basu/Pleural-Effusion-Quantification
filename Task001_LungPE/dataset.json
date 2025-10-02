@@ -1,0 +1,328 @@
+{
+    "description": "Pleural Effusion segmentation",
+    "labels": {
+        "0": "background",
+        "1": "Pleural Effusion"
+    },
+    "licence": "touch it and you die",
+    "modality": {
+        "0": "CT"
+    },
+    "name": "Task001_LungPE",
+    "numTest": 0,
+    "numTraining": 77,
+    "reference": "f off, this is private",
+    "release": "0.0",
+    "tensorImageSize": "4D",
+    "test": [],
+    "training": [
+        {
+            "image": "./imagesTr/lung_0001.nii.gz",
+            "label": "./labelsTr/lung_0001.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0002.nii.gz",
+            "label": "./labelsTr/lung_0002.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0003.nii.gz",
+            "label": "./labelsTr/lung_0003.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0004.nii.gz",
+            "label": "./labelsTr/lung_0004.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0005.nii.gz",
+            "label": "./labelsTr/lung_0005.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0006.nii.gz",
+            "label": "./labelsTr/lung_0006.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0007.nii.gz",
+            "label": "./labelsTr/lung_0007.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0008.nii.gz",
+            "label": "./labelsTr/lung_0008.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0009.nii.gz",
+            "label": "./labelsTr/lung_0009.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0010.nii.gz",
+            "label": "./labelsTr/lung_0010.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0011.nii.gz",
+            "label": "./labelsTr/lung_0011.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0012.nii.gz",
+            "label": "./labelsTr/lung_0012.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0013.nii.gz",
+            "label": "./labelsTr/lung_0013.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0014.nii.gz",
+            "label": "./labelsTr/lung_0014.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0015.nii.gz",
+            "label": "./labelsTr/lung_0015.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0016.nii.gz",
+            "label": "./labelsTr/lung_0016.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0017.nii.gz",
+            "label": "./labelsTr/lung_0017.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0018.nii.gz",
+            "label": "./labelsTr/lung_0018.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0019.nii.gz",
+            "label": "./labelsTr/lung_0019.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0020.nii.gz",
+            "label": "./labelsTr/lung_0020.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0021.nii.gz",
+            "label": "./labelsTr/lung_0021.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0022.nii.gz",
+            "label": "./labelsTr/lung_0022.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0023.nii.gz",
+            "label": "./labelsTr/lung_0023.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0024.nii.gz",
+            "label": "./labelsTr/lung_0024.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0025.nii.gz",
+            "label": "./labelsTr/lung_0025.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0026.nii.gz",
+            "label": "./labelsTr/lung_0026.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0027.nii.gz",
+            "label": "./labelsTr/lung_0027.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0028.nii.gz",
+            "label": "./labelsTr/lung_0028.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0029.nii.gz",
+            "label": "./labelsTr/lung_0029.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0030.nii.gz",
+            "label": "./labelsTr/lung_0030.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0031.nii.gz",
+            "label": "./labelsTr/lung_0031.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0032.nii.gz",
+            "label": "./labelsTr/lung_0032.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0033.nii.gz",
+            "label": "./labelsTr/lung_0033.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0034.nii.gz",
+            "label": "./labelsTr/lung_0034.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0035.nii.gz",
+            "label": "./labelsTr/lung_0035.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0036.nii.gz",
+            "label": "./labelsTr/lung_0036.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0037.nii.gz",
+            "label": "./labelsTr/lung_0037.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0038.nii.gz",
+            "label": "./labelsTr/lung_0038.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0039.nii.gz",
+            "label": "./labelsTr/lung_0039.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0040.nii.gz",
+            "label": "./labelsTr/lung_0040.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0041.nii.gz",
+            "label": "./labelsTr/lung_0041.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0042.nii.gz",
+            "label": "./labelsTr/lung_0042.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0043.nii.gz",
+            "label": "./labelsTr/lung_0043.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0044.nii.gz",
+            "label": "./labelsTr/lung_0044.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0045.nii.gz",
+            "label": "./labelsTr/lung_0045.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0046.nii.gz",
+            "label": "./labelsTr/lung_0046.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0047.nii.gz",
+            "label": "./labelsTr/lung_0047.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0048.nii.gz",
+            "label": "./labelsTr/lung_0048.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0049.nii.gz",
+            "label": "./labelsTr/lung_0049.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0050.nii.gz",
+            "label": "./labelsTr/lung_0050.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0051.nii.gz",
+            "label": "./labelsTr/lung_0051.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0052.nii.gz",
+            "label": "./labelsTr/lung_0052.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0053.nii.gz",
+            "label": "./labelsTr/lung_0053.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0054.nii.gz",
+            "label": "./labelsTr/lung_0054.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0055.nii.gz",
+            "label": "./labelsTr/lung_0055.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0056.nii.gz",
+            "label": "./labelsTr/lung_0056.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0057.nii.gz",
+            "label": "./labelsTr/lung_0057.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0058.nii.gz",
+            "label": "./labelsTr/lung_0058.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0059.nii.gz",
+            "label": "./labelsTr/lung_0059.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0060.nii.gz",
+            "label": "./labelsTr/lung_0060.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0061.nii.gz",
+            "label": "./labelsTr/lung_0061.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0062.nii.gz",
+            "label": "./labelsTr/lung_0062.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0063.nii.gz",
+            "label": "./labelsTr/lung_0063.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0064.nii.gz",
+            "label": "./labelsTr/lung_0064.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0065.nii.gz",
+            "label": "./labelsTr/lung_0065.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0066.nii.gz",
+            "label": "./labelsTr/lung_0066.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0067.nii.gz",
+            "label": "./labelsTr/lung_0067.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0068.nii.gz",
+            "label": "./labelsTr/lung_0068.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0069.nii.gz",
+            "label": "./labelsTr/lung_0069.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0070.nii.gz",
+            "label": "./labelsTr/lung_0070.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0071.nii.gz",
+            "label": "./labelsTr/lung_0071.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0072.nii.gz",
+            "label": "./labelsTr/lung_0072.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0073.nii.gz",
+            "label": "./labelsTr/lung_0073.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0074.nii.gz",
+            "label": "./labelsTr/lung_0074.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0075.nii.gz",
+            "label": "./labelsTr/lung_0075.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0076.nii.gz",
+            "label": "./labelsTr/lung_0076.nii.gz"
+        },
+        {
+            "image": "./imagesTr/lung_0077.nii.gz",
+            "label": "./labelsTr/lung_0077.nii.gz"
+        }
+    ]
+}
